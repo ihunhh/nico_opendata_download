@@ -1,5 +1,5 @@
 # nico_opendata_download
 
-Getting dataset frome ***[nico-opendata](https://nico-opendata.jp)***(must apply first)
+Getting dataset from ***[nico-opendata](https://nico-opendata.jp)***(must apply first)
 
 
